@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1366110266 source:c:\users\macka\desktop\othello\main.cpp
+	<iostream>
+	"SDL/SDL.h"
+	"graphic.h"
+	"board.h"
+	"game.h"
+	"cell.h"
+	"player.h"
+
+1366075121 c:\users\macka\desktop\othello\graphic.h
+
+1366097241 c:\users\macka\desktop\othello\board.h
+	"graphic.h"
+	<cmath>
+
+1366111061 c:\users\macka\desktop\othello\game.h
+	"board.h"
+	"cell.h"
+	"SDL/SDL.h"
+	"player.h"
+
+1366099939 c:\users\macka\desktop\othello\cell.h
+	"SDL/SDL.h"
+
+1366096947 c:\users\macka\desktop\othello\player.h
+	"game.h"
+
